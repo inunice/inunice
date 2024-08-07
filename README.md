@@ -14,6 +14,9 @@ I am a fourth year computer science student from the University of the Philippin
 ## 🍊 Let's Connect!
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inunice)
 
+<!-- [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.linkedin.com/in/inunice) -->
+
+
 <!--
 **inunice/inunice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
