@@ -1,13 +1,13 @@
-## Henlo, I'm Ayen 🍋
+## 🍋 Henlo, I'm Ayen
 
 I am a computer science student at the University of the Philippines Diliman.
 
-## Tech Stack
+## 🍉 Tech Stack
 - 💻 Languages: C, Python, JavaScript, TypeScript
 - 🌐 Frameworks: Angular, NextJS
 - 🛠️ Tools: Git, Figma
 
-## Projects
+## 🍓 Projects
 - [🧸 TeddyCare](https://github.com/inunice/teddycare). An IoT system featuring a smart baby monitor through a teddy bear, fully controllable using a web app or with a wearable device.
 - [👩‍🍼 Poverty and Parenting](https://github.com/inunice/tes-birth-rate). A data science project analyzing the interplay between childbirth statistics and economics in the Philippines.
 
