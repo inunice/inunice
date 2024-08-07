@@ -2,6 +2,10 @@
 
 Henlo! I am Ayen, a computer science student at the University of the Philippines Diliman.
 
+### Tech Stack
+
+### Projects
+
 <!--
 **inunice/inunice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
