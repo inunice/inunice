@@ -1,6 +1,6 @@
-## 🍋 Henlo, I'm Ayen
+## 🍋 Henlo, I'm Ayen!
 
-I am a computer science student at the University of the Philippines Diliman.
+I am a fourth year computer science student from the University of the Philippines Diliman. My passions lie in programming, designing, and storytelling, manifesting in UI/UX design and front-end development. I gain satisfaction in making things work and seeing others benefit from these innovations.
 
 ## 🍉 Tech Stack
 - 💻 Languages: C, Python, JavaScript, TypeScript
