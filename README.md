@@ -1,4 +1,4 @@
-## Hi there 👋
+## Henlo 🍋
 
 Henlo! I am Ayen, a computer science student at the University of the Philippines Diliman.
 
