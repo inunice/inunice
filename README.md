@@ -1,8 +1,8 @@
-## Henlo 🍋
+## Henlo, I'm Ayen 🍋
 
-Henlo! I am Ayen, a computer science student at the University of the Philippines Diliman.
+I am a computer science student at the University of the Philippines Diliman.
 
-### Tech Stack
+## Tech Stack
 - 💻 Languages: C, Python, JavaScript, TypeScript
 - 🌐 Frameworks: Angular, NextJS
 - 🛠️ Tools: Git, Figma
