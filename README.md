@@ -11,6 +11,9 @@ I am a fourth year computer science student from the University of the Philippin
 - [🧸 TeddyCare](https://github.com/inunice/teddycare). An IoT system featuring a smart baby monitor through a teddy bear, fully controllable using a web app or with a wearable device.
 - [👩‍🍼 Poverty and Parenting](https://github.com/inunice/tes-birth-rate). A data science project analyzing the interplay between childbirth statistics and economics in the Philippines.
 
+## 🍊 Let's Connect!
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inunice)
+
 <!--
 **inunice/inunice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
