@@ -8,6 +8,7 @@ I am a fourth year computer science student from the University of the Philippin
 - 🛠️ Tools: Git, Figma
 
 ## 🍓 Projects
+- [🗺️ Lakbayan](https://github.com/violessi/lakbayan) **[under development ⚒️]**. A community-driven public transport app for the Filipino commuter, recommending the best routes with real-time updates and shared insights.
 - [🧸 TeddyCare](https://github.com/inunice/teddycare). An IoT system featuring a smart baby monitor through a teddy bear, fully controllable using a web app or with a wearable device.
 - [👩‍🍼 Poverty and Parenting](https://github.com/inunice/tes-birth-rate). A data science project analyzing the interplay between childbirth statistics and economics in the Philippines.
 
